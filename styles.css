@@ -41,4 +41,9 @@ color: #25D366;
  } 
  #home{
     text-align: center;
+    font-family: Poppins;
+ }
+ .about-container{
+    font-size: 16px;
+    font-family: Poppins;
  }
